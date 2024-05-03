@@ -8,11 +8,11 @@ p {
   color: white;
   text-align: center;
   font-family: copperplate;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 p {
-  border-style: single;
+  border-style: double;
   border-color: red;
   border-width: 5px;
 }
@@ -33,5 +33,5 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 15%;
+  width: 25%;
 }
