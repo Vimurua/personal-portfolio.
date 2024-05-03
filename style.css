@@ -5,16 +5,16 @@ h1 {
 }
 
 p {
-  color: orange;
+  color: white;
   text-align: center;
   font-family: copperplate;
   font-size: 20px;
 }
 
 p {
-  border-style: double;
+  border-style: single;
   border-color: red;
-  border-width: 7px;
+  border-width: 5px;
 }
 
 p {
