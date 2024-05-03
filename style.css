@@ -1,11 +1,11 @@
 h1 {
-  color: White;
+  color: red;
   text-align: center;
   font-family: copperplate;
 }
 
 p {
-  color: yellow;
+  color: orange;
   text-align: center;
   font-family: copperplate;
   font-size: 20px;
@@ -13,8 +13,8 @@ p {
 
 p {
   border-style: double;
-  border-color: white;
-  border-width: 15px;
+  border-color: blue;
+  border-width: 7px;
 }
 
 p {
@@ -26,7 +26,7 @@ p {
 
 
 body {
-  background-color: black;
+  background-color: lavender;
 }
 
 img {
